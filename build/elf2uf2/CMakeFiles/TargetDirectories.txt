@@ -1,0 +1,5 @@
+/Users/evachauffour/Desktop/3rd year/Semester 2/Microprocessor Systems II/assignment-2-micro/build/elf2uf2/CMakeFiles/elf2uf2.dir
+/Users/evachauffour/Desktop/3rd year/Semester 2/Microprocessor Systems II/assignment-2-micro/build/elf2uf2/CMakeFiles/edit_cache.dir
+/Users/evachauffour/Desktop/3rd year/Semester 2/Microprocessor Systems II/assignment-2-micro/build/elf2uf2/CMakeFiles/rebuild_cache.dir
+/Users/evachauffour/Desktop/3rd year/Semester 2/Microprocessor Systems II/assignment-2-micro/build/elf2uf2/boot_uf2_headers/CMakeFiles/edit_cache.dir
+/Users/evachauffour/Desktop/3rd year/Semester 2/Microprocessor Systems II/assignment-2-micro/build/elf2uf2/boot_uf2_headers/CMakeFiles/rebuild_cache.dir
